@@ -24,8 +24,8 @@ This challenge involves making a QR card component with a QR code picture in the
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-qr-component-using-flexbox-TECpN2Q52_)
+- Live Site URL: [Add live site URL here](https://mehrasourav-qr-code-component.netlify.app/)
 
 ## My process
 
