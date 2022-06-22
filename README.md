@@ -61,6 +61,12 @@ This was my first attempt at coding something in front end on my own outside of
 
 6. I also learned the difference between importing multiple stylesheets in your html file vs using @import to import multiple stylesheets into a CSS file and importing that single stylesheet in your html file. Importing multiple stylesheets is useful for providing alternate stylesheets when you want to ensure that your app works on multiple browsers (Chrome, Firefox, Safari, etc.), while @import is useful when you want to use multiple stylesheets on an HTML page while including only a single link in the document's head.
 
+Edit:
+
+7. I knew it's a good practice to use CSS resets, but only realized it's importance after trying to implement the feedbacks. According trying to implement one feedback (Should  use meaningful tags wherever possible (like h1 for headings, p for paragraphs, etc.)), I needed to replace a div with a h1, but found that h1 by default has some top and bottom margin. I added a CSS reset after this. (However, I'm still using content-box for now).
+
+8. I knew about accessibilty but never really implemented it before. The generated solution report advised that all the content should be inside landmark elements (<main>, <header>, <nav>, <footer>) which are special regions on the page to which screen readers and other assistive technologies can jump. Implementing these landmark elements should increase the accessibility through screen readers.
+
 ```css
 :root{
     `
