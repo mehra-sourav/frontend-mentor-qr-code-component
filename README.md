@@ -95,3 +95,10 @@ Helped me re-adjust the size of the component by making changes in just 1 place
 
 - Frontend Mentor - [@mehra-sourav](https://www.frontendmentor.io/profile/mehra-sourav)
 - Twitter - [@Souravmehra](https://www.twitter.com/Souravmehra)
+
+## Acknowledgments
+
+[@vanzasetia] https://www.frontendmentor.io/profile/vanzasetia
+[@juanpb96] https://www.frontendmentor.io/profile/juanpb96
+
+A big shout out to Vanza and Juan who helped me improve my code through feedback and suggestions, by helping me think things through in a new way and helping me get unstuck where I was stuck.
